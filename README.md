@@ -1,4 +1,4 @@
-# projects
+# C++
 
 This is a student roster database application I made for my C++ class.
 
