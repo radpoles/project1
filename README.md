@@ -1,11 +1,11 @@
 # projects
 
-This is a compilation of projects I have made for school, and I am currently working on a much more complicated Java scheduling application that pulls from a SQL database.
+This is a student roster database application I made for my C++ class.
 
-When I have completed that one, you can bet I will add it here!
+It was my first time coding!
 
-I am trying to post my projects for the sole purpose of adding them to my portfolio website.
+I am still a student and this was my first coding project ever, so I am open to any advice and expertise you can offer.
 
-I am still a student and these were my first coding projects ever, so I am open to any advice and expertise you can offer.
+Disclaimer - I am trying to post my completed projects for the sole purpose of adding them to my portfolio website.
 
 Thank you for your time :)
